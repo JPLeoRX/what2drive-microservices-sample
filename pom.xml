@@ -14,4 +14,8 @@
             <email>leo.ertuna@gmail.com</email>
         </developer>
     </developers>
+
+    <modules>
+        <module>config-service</module>
+    </modules>
 </project>
