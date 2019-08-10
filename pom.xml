@@ -16,9 +16,11 @@
     </developers>
 
     <modules>
+        <module>service-common</module>
+        <module>message-protocol</module>
         <module>config-service</module>
         <module>eureka-service</module>
         <module>car-service</module>
-        <module>service-common</module>
+        <module>car-proxy</module>
     </modules>
 </project>
