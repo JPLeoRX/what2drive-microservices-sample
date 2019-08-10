@@ -1,0 +1,11 @@
+CREATE TABLE car
+(
+  id VARCHAR(128) NOT NULL,
+  make VARCHAR(256) NOT NULL,
+  model VARCHAR(256) NOT NULL,
+  generation VARCHAR(128) NOT NULL,
+  body VARCHAR(128) NOT NULL,
+  created_at BIGINT NOT NULL,
+  updated_at BIGINT NOT NULL,
+  PRIMARY KEY (id)
+);

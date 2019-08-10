@@ -17,5 +17,8 @@
 
     <modules>
         <module>config-service</module>
+        <module>eureka-service</module>
+        <module>car-service</module>
+        <module>service-common</module>
     </modules>
 </project>
