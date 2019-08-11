@@ -18,9 +18,9 @@
     <modules>
         <module>service-common</module>
         <module>message-protocol</module>
-        <module>config-service</module>
-        <module>eureka-service</module>
+        <module>system-config-service</module>
+        <module>system-eureka-service</module>
         <module>car-service</module>
-        <module>car-proxy</module>
+        <module>system-zuul-proxy</module>
     </modules>
 </project>
